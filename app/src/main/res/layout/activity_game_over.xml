@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/verde"
+    tools:context="com.example.rim.spongitime.GameOverActivity">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="214dp"
+        android:layout_height="134dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="00dp"
+        android:layout_marginTop="110dp"
+        android:layout_marginEnd="76dp"
+        android:layout_marginBottom="464dp"
+        android:src="@drawable/dancing"/>
+
+    <Button
+        android:id="@+id/play_again_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="67dp"
+        android:layout_below="@+id/score_text"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="113dp"
+        android:layout_marginEnd="94dp"
+        android:background="@drawable/botton2_reg"
+        android:fontFamily="@font/playfull"
+        android:padding="10dp"
+        android:text="PLAY AGAIN"
+        android:textAllCaps="false"
+        android:textColor="#151515"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/score_text"
+        android:layout_width="272dp"
+        android:layout_height="109dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:fontFamily="@font/playfull"
+        android:padding="10dp"
+        android:text="Score"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#7C351F"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
