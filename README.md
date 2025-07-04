@@ -20,3 +20,7 @@ Este módulo forma parte del proyecto **SongBobGame**, un juego Android desarrol
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/RimElabrouki/SongBobGame.git
+
+   Abre el proyecto con Android Studio.
+
+Ejecuta la app en un emulador o dispositivo Android.
