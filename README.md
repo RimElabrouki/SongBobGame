@@ -26,4 +26,4 @@
 Ejecuta la app en un emulador o dispositivo Android.
 
 ## Licencia
-Este proyecto está bajo la Private MIT License. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la Private MIT License. Consulta el archivo [LICENSE](https://github.com/RimElabrouki/SongBobGame/blob/master/LICENSE) para más detalles.
