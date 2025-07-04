@@ -1,4 +1,4 @@
-# SongBobGame - Módulo SpongiTime
+# SongBobGame
 
 **SongBobGame**, es un juego Android desarrollado para ofrecer una experiencia divertida y dinámica. El paquete `spongitime` contiene la lógica principal para el control temporal dentro del juego, gestionando eventos que dependen del tiempo y la interacción del usuario.
 
