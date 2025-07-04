@@ -24,3 +24,6 @@
    Abre el proyecto con Android Studio.
 
 Ejecuta la app en un emulador o dispositivo Android.
+
+## Licencia
+Este proyecto está bajo la Private MIT License. Consulta el archivo LICENSE para más detalles.
