@@ -1,50 +1,22 @@
-# SongBobGame
+# SongBobGame - Módulo SpongiTime
 
-##  Descripción
+Este módulo forma parte del proyecto **SongBobGame**, un juego Android desarrollado para ofrecer una experiencia divertida y dinámica. El paquete `spongitime` contiene la lógica principal para el control temporal dentro del juego, gestionando eventos que dependen del tiempo y la interacción del usuario.
 
-**SongBobGame** es un juego interactivo desarrollado en Python que combina música y entretenimiento.  
-El jugador debe adivinar canciones o completar desafíos musicales, poniendo a prueba su conocimiento y rapidez en un entorno divertido y dinámico.
+## Funcionalidad principal
 
-Este proyecto está diseñado para usuarios de todas las edades interesados en juegos musicales que desean aprender y divertirse al mismo tiempo.
+- Control y manejo de temporizadores para eventos del juego.
+- Gestión del ciclo de vida de los eventos en tiempo real.
+- Actualización dinámica de la interfaz del juego según el estado del temporizador.
+- Implementación de lógica para condiciones y transiciones basadas en tiempo.
 
----
+## Estructura del módulo
 
-## 🛠 Tecnologías y Herramientas
+- Clases para iniciar, pausar y reiniciar temporizadores.
+- Métodos para actualizar la UI en función del progreso del tiempo.
+- Gestión de eventos relacionados con el tiempo para mejorar la jugabilidad.
 
-- **Python 3.x**  
-- Librerías para manejo de audio y eventos, como `pygame` y `playsound`  
-- (Opcional) Otras dependencias específicas según la implementación
+## Instalación y ejecución
 
----
-
-## 📦 Instalación
-
-1. Clona este repositorio:
+1. Clona el repositorio:
    ```bash
    git clone https://github.com/RimElabrouki/SongBobGame.git
-   cd SongBobGame
-# SongBobGame
-
-##  Descripción
-
-**SongBobGame** es un juego interactivo desarrollado en Python que combina música y entretenimiento.  
-El jugador debe adivinar canciones o completar desafíos musicales, poniendo a prueba su conocimiento y rapidez en un entorno divertido y dinámico.
-
-Este proyecto está diseñado para usuarios de todas las edades interesados en juegos musicales que desean aprender y divertirse al mismo tiempo.
-
----
-
-## 🛠 Tecnologías y Herramientas
-
-- **Python 3.x**  
-- Librerías para manejo de audio y eventos, como `pygame` y `playsound`  
-- (Opcional) Otras dependencias específicas según la implementación
-
----
-
-## 📦 Instalación
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/RimElabrouki/SongBobGame.git
-   cd SongBobGame
